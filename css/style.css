@@ -1,0 +1,173 @@
+html,body{
+padding:0px;
+margin:0px;
+}
+
+
+.grid-container{
+	
+	display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 10px;
+  background-color: #2196F3;
+  padding: 10px;
+  justify-content:center;
+  width:20px;
+  
+
+	
+}.grid-container > div {
+	background-color: rgba(255, 255, 255, 0.8);
+	text-align: center;
+	padding: 20px 0;
+	font-size: 30px;
+
+  }
+.border{
+	border:5px solid #dd4f05;
+
+
+}
+.box{
+	display:flex;
+	align-items: center;
+	background-color:rgb(204, 51, 71);
+	justify-content:center;
+	height:300px;
+
+}.box div {
+	width:100px;
+}
+.second-arenabox{
+	display:flex;
+	flex-wrap:wrap;
+	align-items:center;
+	flex-direction:row;
+	justify-content:center;
+	gap:5px;
+	height:100px;
+	
+	
+	margin:2px;
+	
+	
+
+}
+.second-arenabox >* {
+	flex:0 0 auto;
+
+
+}
+.second-arenabox-1{
+	background-color: black;
+	height:100px;
+	width:320px;
+	gap: 5px;
+}
+.second-arenabox-2{
+	background-color:rgb(66, 64, 73);
+	height:100px;
+	width:320px;
+}
+.second-arenabox-3{
+	background-color:blueviolet;
+	height:100px;
+	width:320px;
+}
+.second-arenabox-4{
+	background-color:burlywood;
+	height:100px;
+	width:320px;
+}
+.third-arenabox{
+	display:flex;
+	align-items: center;
+	justify-content:center;
+	gap: 5px;
+	margin:2px;
+	
+
+}.third-arenabox-1{
+	background-color:lawngreen;
+	height:100px;
+	width:320px;
+}
+.third-arenabox-2{
+	background-color:mediumturquoise;
+	height:100px;
+	width:320px;
+
+}.third-arenabox-3{
+	background-color:lawngreen;
+	height:100px;
+	width:320px;
+}
+.third-arenabox-4{
+	background-color:lawngreen;
+	height:100px;
+	width:320px;
+}
+.fourth-arenabox{
+	display:flex;
+	align-items: center;
+	justify-content:center;
+	gap: 5px;
+
+}.fourth-arenabox-1{
+	background-color:rgb(0, 17, 252);
+	height:100px;
+	width:320px;
+
+}
+.fourth-arenabox-2{
+	background-color:rgb(0, 17, 252);
+	height:100px;
+	width:320px;
+}
+.fourth-arenabox-3{
+	background-color:lightcoral;
+	height:100px;
+	width:320px;
+}
+.fourth-arenabox-4{
+	background-color:lightseagreen;
+	height:100px;
+	width:320px;
+
+}.fifth-arenabox{
+	display:flex;
+	align-items: center;
+	justify-content:center;
+	gap: 5px;
+	margin:2px;
+
+}
+.fifth-arenabox-1{
+	background-color:mediumorchid;
+	height:100px;
+	width:320px;
+
+}
+.fifth-arenabox-2{
+	background-color:green;
+	height:100px;
+	width:320px;
+
+}.fifth-arenabox-3{
+	background-color:red;
+	height:100px;
+	width:320px;
+}
+.fifth-arenabox-4{
+	background-color:magenta;
+	height:100px;
+	width:320px;
+}
+
+
+
+
+
+	
+
+

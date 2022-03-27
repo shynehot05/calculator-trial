@@ -1,0 +1,37 @@
+
+@font-face{
+	font-family:Anton;
+	src: url(../fonts/Anton/Anton-Regular.ttf);
+}
+@font-face{
+	font-family:Abel;
+	src:url(../fonts/Abel/Abel-Regular.ttf);
+}
+@font-face{
+	font-family:Big_Shoulders_Display;
+	src: url(../fonts/Big_Shoulders_Display/BigShouldersDisplay-ExtraBold.ttf);
+}
+@font-face{
+	font-family:Open_Sans_Condensed;
+	src: url(../fonts/Open_Sans_Condensed/OpenSansCondensed-Light.ttf);
+}
+@font-face{
+	font-family:Work_Sans;
+	src: url(../fonts/Work_Sans/WorkSans-Bold.ttf);
+}
+@font-face{
+	font-family:Pacifico;
+	src: url(../fonts/Pacifico/Pacifico-Regular.ttf);
+}
+@font-face{
+	font-family:Open_Sans_Condensed;
+	src: url(../fonts/Open_Sans_Condensed/OpenSansCondensed-Light.ttf);
+}
+@font-face{
+	font-family:Ubuntu_Condensed;
+	src: url(../fonts/Ubuntu_Condensed/UbuntuCondensed-Regular.ttf);
+}
+@font-face{
+	font-family:BebasNeue-Regular;
+	src: url(../fonts/BebasNeue-Regular.ttf);
+}
